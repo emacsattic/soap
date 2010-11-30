@@ -4,6 +4,7 @@
 
 ;; Author: Edward O'Connor <ted@oconnor.cx>
 ;; Keywords: comm, tools, processes
+;; Version: 1.0.0
 
 ;; This file is free software; you can redistribute it and/or
 ;; modify it under the terms of the GNU General Public License as
@@ -24,7 +25,7 @@
 
 ;; You should always be able to find the latest version here:
 
-;;            <URL:http://oconnor.cx/elisp/soap.el>
+;;            <URL:http://edward.oconnor.cx/elisp/soap.el>
 
 ;; This is the barest of beginnings of SOAP support for Emacs. It
 ;; really doesn't do much of anything; to see how to use it, see
